@@ -4,7 +4,7 @@
 
 3. Diagrammatically represent the SDLC life cycle using Agile methodology
 
-4. Create a sample testcase document (use makemytrip.com website)
+4. Create a sample testcase document (use www.irctc.co.in website)
 
 5. Create a simple junit testcase.
 
