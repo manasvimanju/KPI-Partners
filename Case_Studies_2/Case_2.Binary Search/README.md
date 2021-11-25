@@ -1,4 +1,4 @@
-##CaseStudy2. Write an alogorithm to depict Binary Search:
+## CaseStudy2- Write an alogorithm to depict Binary Search:
 
 Step 1 - Read the search element from the user.
 
