@@ -1,4 +1,4 @@
-##CaseStudy1:1. Write an algorithm to depict Merge sort
+## CaseStudy1- Write an algorithm to depict Merge sort
 
 Step1: Divide the array into two part.
 
