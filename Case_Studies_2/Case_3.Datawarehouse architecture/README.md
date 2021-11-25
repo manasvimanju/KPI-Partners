@@ -1,1 +1,1 @@
-## CaseStudy3Explain the Datawarehouse architecture diagrammatically.
+## CaseStudy3- Explain the Datawarehouse architecture diagrammatically.
