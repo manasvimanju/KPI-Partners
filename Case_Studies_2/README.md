@@ -1,3 +1,5 @@
+# Case Study_2
+
 1. Write an algorithm to depict Merge sort
 
 2. Write an alogorithm to depict Binary Search
